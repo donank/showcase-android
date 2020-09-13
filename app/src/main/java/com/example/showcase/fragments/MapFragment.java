@@ -14,6 +14,11 @@ import com.esri.arcgisruntime.mapping.Basemap;
 import com.esri.arcgisruntime.mapping.view.MapView;
 import com.example.showcase.R;
 
+/**
+ * Fragment: MapFragment
+ */
+
+
 public class MapFragment extends Fragment {
 
     private MapView mapView;
